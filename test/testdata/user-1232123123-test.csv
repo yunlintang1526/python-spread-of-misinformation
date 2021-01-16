@@ -1,0 +1,2 @@
+created_at,id,id_str,full_text,entities,retweet_count,user
+Sat Jun 20 18:21:13 +0000 2020,129321039812,129321039812,#donaldtrump big love,"{'hashtags': [{'text': 'donaldtrump', 'indices': [6, 10]}]}",13,"{'id': 1232123123, 'id_str': '1232123123', 'name': 'aasddsda', 'screen_name': 'aasddsda'}"

@@ -1,0 +1,4 @@
+created_at,id,id_str,full_text,entities,retweet_count,user
+Fri Jun 19 01:12:56 +0000 2020,35234234234,35234234234,#donaldtrump hsdasdas ,"{'hashtags': [{'text': 'home', 'indices': [6, 10]}, {'text': 'mask'}]}",13,"{'id': 58487237, 'id_str': '58487237', 'name': 'sdskajs', 'screen_name': 'sdskajs'}"
+Fri Jun 19 09:02:10 +0000 2020,32134123123,32134123123,#covidiots weqwwemkq ,"{'hashtags': [{'text': 'covidiots', 'indices': [8, 12]}]}",13,"{'id': 58487237, 'id_str': '58487237', 'name': 'sdskajs', 'screen_name': 'sdskajs'}"
+Fri Jun 19 19:27:13 +0000 2020,834372801,834372801,#donaldtrump qxxxxxxxx,"{'hashtags': [{'text': 'donaldtrump', 'indices': [6, 10]}]}",13,"{'id': 58487237, 'id_str': '58487237', 'name': 'sdskajs', 'screen_name': 'sdskajs'}"

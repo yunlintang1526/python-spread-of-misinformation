@@ -1,0 +1,10 @@
+{
+    "source": "data/interim",
+    "source-test": "test/testdata", 
+    "outdir": "data/report",
+    "outdir_dist": "data/report/dist_over_users.png",
+    "outdir_csv": "data/report/fifty_frequent_hashtags.csv",
+    "outdir_plot": "data/report/hashtags_plot",
+    "scientific_tags": ["mask", "socialdistancing", "home"],
+    "conspiracy_tags": ["trump", "china", "wuhanvirus"]
+}

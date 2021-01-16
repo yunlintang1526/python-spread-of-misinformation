@@ -1,0 +1,5 @@
+created_at,id,id_str,full_text,entities,retweet_count,user
+Sat Jun 10 06:12:24 +0000 2020,1230212231,1230212231,I hate #covid-19!,"{'hashtags': [{'text': 'covid-19', 'indices': [20, 24]}]}",6,"{'id': 59392938, 'id_str': '59392938', 'name': 'honeygirl', 'screen_name': 'honeygirl'}"
+Sat Jun 10 05:13:12 +0000 2020,1243452231,1243452231,"What a beautiful day, but #covid-19, :( !","{'hashtags': [{'text': 'ccpvirus', 'indices': [20, 24]}]}",2,"{'id': 59392938, 'id_str': '59392938', 'name': 'honeygirl', 'screen_name': 'honeygirl'}"
+Fri Jul 24 01:11:15 +0000 2020,4323423311,4323423311,#donaldtrump the president helps us to solve the issue,"{'hashtags': [{'text': 'trumpvirus', 'indices': [6, 10]}]}",22,"{'id': 59392938, 'id_str': '59392938', 'name': 'honeygirl', 'screen_name': 'honeygirl'}"
+Tue Jul 28 23:13:43 +0000 2020,12934138923,12934138923,#donaldtrump help us!!!!,"{'hashtags': [{'text': 'donaldtrump', 'indices': [6, 10]}]}",10,"{'id': 59392938, 'id_str': '59392938', 'name': 'honeygirl', 'screen_name': 'honeygirl'}"

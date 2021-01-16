@@ -1,0 +1,14 @@
+{
+    "source": "data/interim",
+    "source-test": "test/testdata",
+    "cons_users_test": ["858378192", "13982832", "59392938"],
+    "sci_users_test": ["1232123123", "58487237", "12929123"],
+    "outdir": ["data/report", "data/interim"],
+    "outdirCsv": ["data/report/hashtag_polarity.csv", "data/report/popular_tweets.csv", "data/interim/user-{}.csv"],
+    "outdirPlot":["data/report/cons_user_polarity.png", "data/report/sci_user_polarity.png"],
+    "markerHashtags": ["ccpvirus", "trumpvirus", "wuhan"],
+    "popularTweetID": ["1285538897943056386", "1283209089410048000"],
+    "startDate": "03 01 2020",
+    "endDate": "10 01 2020",
+    "maxTweets": 1000
+}

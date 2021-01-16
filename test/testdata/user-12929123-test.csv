@@ -1,0 +1,4 @@
+created_at,id,id_str,full_text,entities,retweet_count,user
+Thu Jun 18 09:11:23 +0000 2020,4372893423,4372893423,#donaldtrump hope our president can help us ,"{'hashtags': [{'text': 'donaldtrump', 'indices': [6, 10]}]}",13,"{'id': 12929123, 'id_str': '12929123', 'name': 'sweeeet', 'screen_name': 'sweeeet'}"
+Thu Jun 18 12:11:20 +0000 2020,120210321,120210321,#home stay at home,"{'hashtags': [{'text': 'home', 'indices': [2, 4]}]}",11,"{'id': 12929123, 'id_str': '12929123', 'name': 'sweeeet', 'screen_name': 'sweeeet'}"
+Thu Jun 18 19:22:35 +0000 2020,10299312312,10299312312,#playstation4 playing games at home during covid-19 period,"{'hashtags': [{'text': 'playstation4', 'indices': [10, 18]}, {'text': 'socialdistancing'}]}",13,"{'id': 12929123, 'id_str': '12929123', 'name': 'sweeeet', 'screen_name': 'sweeeet'}"

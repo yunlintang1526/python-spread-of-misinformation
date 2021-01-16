@@ -1,0 +1,4 @@
+created_at,id,id_str,full_text,entities,retweet_count,user
+Thu May 21 10:30:43 +0000 2020,111203231,111203231,#donaldtrump xxxxxxxx,"{'hashtags': [{'text': 'donaldtrump', 'indices': [6, 10]}]}",153,"{'id': 858378192, 'id_str': '858378192', 'name': '112233', 'screen_name': '112233'}"
+Sun May 24 21:11:43 +0000 2020,393423491204,393423491204,#home aaaaaa,"{'hashtags': [{'text': 'trumpvirus', 'indices': [22, 34]}, {'text': 'ccpvirus'}]}",153,"{'id': 858378192, 'id_str': '858378192', 'name': '112233', 'screen_name': '112233'}"
+Thu Jun 11 23:44:43 +0000 2020,97859303,97859303,#wash kjdkasldlas,"{'hashtags': [{'text': 'covid19', 'indices': [1, 8]}]}",153,"{'id': 858378192, 'id_str': '858378192', 'name': '112233', 'screen_name': '112233'}"

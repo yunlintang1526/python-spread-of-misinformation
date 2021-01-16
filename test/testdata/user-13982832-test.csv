@@ -1,0 +1,5 @@
+created_at,id,id_str,full_text,entities,retweet_count,user
+Tue Jul 28 19:15:23 +0000 2020,573489534,573489534,#donaldtrump I love our president!,"{'hashtags': [{'text': 'wuhan', 'indices': [6, 10]}]}",11,"{'id': 13982832, 'id_str': '13982832', 'name': 'mmmmzzzz', 'screen_name': 'mmmmzzzz'}"
+Tue Jul 28 20:13:13 +0000 2020,423342311231,423342311231,#covidiots the experts are all covidiots!!!!,"{'hashtags': [{'text': 'wuhan', 'indices': [12, 20]}, {'text': 'ccpvirus'}]}",0,"{'id': 13982832, 'id_str': '13982832', 'name': 'mmmmzzzz', 'screen_name': 'mmmmzzzz'}"
+Tue Jul 28 21:13:43 +0000 2020,5324234212,5324234212,#ccpvirus xxxx china!!!!,"{'hashtags': [{'text': 'ccpvirus', 'indices': [10, 24]}]}",44,"{'id': 13982832, 'id_str': '13982832', 'name': 'mmmmzzzz', 'screen_name': 'mmmmzzzz'}"
+Tue Jul 28 22:13:43 +0000 2020,567836429,567836429,#donaldtrump help us plz!!!!,"{'hashtags': [{'text': 'donaldtrump', 'indices': [6, 10]}]}",153,"{'id': 13982832, 'id_str': '13982832', 'name': 'mmmmzzzz', 'screen_name': 'mmmmzzzz'}"
